@@ -1,0 +1,10 @@
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\bin\Debug\Percobaan-2.exe.config
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\bin\Debug\Percobaan-2.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\bin\Debug\Percobaan-2.pdb
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan-2.csprojAssemblyReference.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan_2.Form1.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan_2.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan-2.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan-2.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan-2.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 2\Tugas\Percobaan-2\Percobaan-2\obj\Debug\Percobaan-2.pdb

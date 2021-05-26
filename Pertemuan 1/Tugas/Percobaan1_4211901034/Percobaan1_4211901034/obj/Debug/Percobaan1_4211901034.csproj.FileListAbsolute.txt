@@ -1,0 +1,10 @@
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\bin\Debug\Percobaan1_4211901034.exe.config
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\bin\Debug\Percobaan1_4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\bin\Debug\Percobaan1_4211901034.pdb
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.csprojAssemblyReference.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.Form1.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 1\Tugas\Percobaan1_4211901034\Percobaan1_4211901034\obj\Debug\Percobaan1_4211901034.pdb

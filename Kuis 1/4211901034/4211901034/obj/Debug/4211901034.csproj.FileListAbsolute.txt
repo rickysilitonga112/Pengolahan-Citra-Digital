@@ -1,0 +1,10 @@
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\bin\Debug\4211901034.exe.config
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\bin\Debug\4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\bin\Debug\4211901034.pdb
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\4211901034.csprojAssemblyReference.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\_4211901034.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\4211901034.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\4211901034.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\4211901034.pdb
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Kuis 1\4211901034\4211901034\obj\Debug\_4211901034.Form12.resources
