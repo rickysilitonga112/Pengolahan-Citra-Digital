@@ -1,0 +1,17 @@
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.csprojAssemblyReference.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.Form1.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\Pertemuan8_4211901034.exe.config
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\Pertemuan8_4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\Pertemuan8_4211901034.pdb
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.dll
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.Imaging.dll
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.Math.dll
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.xml
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.Imaging.xml
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\bin\Debug\AForge.Math.xml
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.csproj.CopyComplete
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.exe
+C:\Users\ricky\OneDrive\Desktop\Matkul Semester 4\Pengolahan Citra\Pertemuan 8\Tugas\Pertemuan8_4211901034\Pertemuan8_4211901034\obj\Debug\Pertemuan8_4211901034.pdb
